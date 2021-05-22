@@ -5,7 +5,7 @@
   </h1>
 
   <h4 align="center">
-            Aplicação para controle e criação de agendamentos de uma barbearia!
+            Aplicação para controle e criação de agendamentos de uma barbearia by Rocketseat! 
           </h4>
           <p align="center">
             <img alt="GitHub top language" src="https://user-images.githubusercontent.com/48860569/84838439-d6ec5800-b010-11ea-8d75-ce56d3d3108b.png">
